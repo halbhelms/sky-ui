@@ -1,0 +1,8 @@
+:root {
+  --regularTextColor: #252525;
+  --highlightTextColor: green;
+}
+
+html {
+  font-family: Titillium Web;
+}
