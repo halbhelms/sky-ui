@@ -1,0 +1,70 @@
+:root {
+  /* #region font colors */
+  --font-color-light: white;
+  --font-color-medium: silver;
+  --font-color-dark: #202020;
+  --font-color-intense: black;
+  /* #endregion */
+  /* #region background colors */
+  --background-color-light: white;
+  --background-color-medium: #EEF1F5;
+  --background-color-dark: #202020;
+  /* #endregion */
+  /* #region accent colors */
+  --accent-color-1: red;
+  --accent-color-2: green;
+  --accent-color-3: navy;
+  --accent-color-4: gold;
+  --accent-color-5: #50BCDA;
+  --accent-color-6: blue;
+  --accent-color-7: yellow;
+  /* #endregion */
+  /* #region font sizes */
+  --font-size-small: 0.75rem;
+  --font-size-medium: 1rem;
+  --font-size-large: 1.5rem;
+  --font-size-huge: 2rem;
+  /* #endregion */
+  /* #region margin */
+  --margin-top-small: 0.5rem;
+  --margin-top-medium: 0.75rem;
+  --margin-top-large: 1rem;
+  --margin-top-huge: 1.5rem;
+  --margin-right-small: 0.5rem;
+  --margin-right-medium: 0.5rem;
+  --margin-right-large: 1rem;
+  --margin-right-huge: 1.5rem;
+  --margin-bottom-small: 0.5rem;
+  --margin-bottom-medium: 0.75rem;
+  --margin-bottom-large: 1rem;
+  --margin-bottom-huge: 1.5rem;
+  --margin-left-small: 0.5rem;
+  --margin-left-medium: 0.75rem;
+  --margin-left-large: 1rem;
+  --margin-left-huge: 1.5rem;
+  /* #endregion */
+  /* #region padding */
+  --padding-top-small: 0.5rem;
+  --padding-top-medium: 0.75rem;
+  --padding-top-large: 0.75rem;
+  --padding-top-huge: 1rem;
+  --padding-right-small: 0.5rem;
+  --padding-right-medium: 0.5rem;
+  --padding-right-large: 0.75rem;
+  --padding-right-huge: 1rem;
+  --padding-bottom-small: 0.5rem;
+  --padding-bottom-medium: 0.5rem;
+  --padding-bottom-large: 0.75rem;
+  --padding-bottom-huge: 1rem;
+  --padding-left-small: 0.5rem;
+  --padding-left-medium: 0.5rem;
+  --padding-left-large: 0.75rem;
+  --padding-left-huge: 1rem;
+  /* #endregion */
+  /* #region border radius */
+  --border-radius-small: 4px;
+  --border-radius-medium: 8px;
+  --border-radius-large: 12px;
+  --border-radius-huge: 16px;
+  /* #endregion */
+}

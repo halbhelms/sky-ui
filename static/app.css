@@ -1,8 +1,5 @@
-:root {
-  --regularTextColor: #252525;
-  --highlightTextColor: green;
-}
-
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css");
+@import url('https://fonts.googleapis.com/css2?family=Advent+Pro:ital,wght@0,100..900;1,100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Neuton:ital,wght@0,200;0,300;0,700;1,400&family=Titillium+Web:wght@200;300;400;600&display=swap');
 html {
-  font-family: Titillium Web;
+  font-family: Montserrat;
 }
