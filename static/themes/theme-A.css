@@ -1,14 +1,16 @@
 :root {
   /* #region font colors */
-  --font-color-light: white;
+  --font-color-light: #F8F8F8;
   --font-color-medium: silver;
-  --font-color-dark: #202020;
+  --font-color-dark: #383838;
   --font-color-intense: black;
+  --font-color-sky-blue: #2979FF;
   /* #endregion */
   /* #region background colors */
   --background-color-light: white;
   --background-color-medium: #EEF1F5;
-  --background-color-dark: #202020;
+  --background-color-dark: #383838;
+  --background-color-sky-blue: #2979FF;
   /* #endregion */
   /* #region accent colors */
   --accent-color-1: red;
@@ -18,6 +20,8 @@
   --accent-color-5: #50BCDA;
   --accent-color-6: blue;
   --accent-color-7: yellow;
+  --accent-color-sky-blue: #2979FF;
+  --accent-color-sky-dark: #383838;
   /* #endregion */
   /* #region font sizes */
   --font-size-small: 0.75rem;
